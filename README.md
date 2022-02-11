@@ -7,28 +7,28 @@ Using Tableau we've done analysis and created a pitch to convince investors to j
 ## Results 
 [link to dashboard](https://public.tableau.com/app/profile/sydney.kieswetter/viz/Bikeshare_16446060150970/BikeTripAnalysis?publish=yes)
 
-![Breakdown of Customer Type](/Resources/Customers.png)
+![Breakdown of Customer Type](Customers.png)
 Let's begin by getting an understanding of how our customers will pay for these services. As shown in the graph below customers are loyal and pay for bikesharing services on a long term subscription basis far more than one off purchases. 
 
-![Breakdown of Customer Gender](/Resources/GenderBreakdown.png)
+![Breakdown of Customer Gender](GenderBreakdown.png)
 Of the large customer demand it appears that the majority of customers are male. 
 
-![Peak August Hours](/Resources/AugHours.png)
+![Peak August Hours](AugHours.png)
 To continue the general understanding of our cutomer's purchasing preferences, demographocs we should now try to get a general understaning of when demand is the highest. Between 5 and 7 p.m. 
 
-![Trips/Day](/Resources//TripsWeekDayHr.png)
+![Trips/Day](TripsWeekDayHr.png)
 Now to get more detailed, we can see for each day of the week what time is the demand highest. It is interesting to see how the time of high demand correlate with people's commute to and from work. 
 
-![Trips/Day/Gender](/Resources/TripsWeekdayGender.png)
+![Trips/Day/Gender](TripsWeekdayGender.png)
 Broken down even further we can now see that regardless of gender the times of day that demand is high still tends to correlate with the work commute. Whereas weekends have a more steady demand. 
 
-![Trips/Day/Customer Type](/Resources/UserDayGender.png)
+![Trips/Day/Customer Type](UserDayGender.png)
 Not suprisingly, as it was also hinted at in the subscription and gender pie charts at the beginning, male subscriber customers have the highest demand regardless of the day of the week. 
 
-![Trip Durration By Users](/Resources//TimesForUsers.png)
+![Trip Durration By Users](TimesForUsers.png)
 Using the graph above it is also easy to see that people tend to use the bikes for shorter trips around the city. Which would also support demand being highest in the mornings or afternoons while people are communting. 
 
-![Trip Durration By Gender](/Resources/TimesByGender.png)
+![Trip Durration By Gender](TimesByGender.png)
 Finally it is suported that regardless of gender short duration trips are still the preference. 
 
 ## Summary
